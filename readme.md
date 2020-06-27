@@ -8,7 +8,7 @@
 
 - now we have 8 choices
 
-- and one of these options is the fifth **scan QRCode on screen**
+- one of these options is the fifth **scan QRCode on screen** and click that option
 
 - next, please open the image file that **In this repository** named jp2
 
