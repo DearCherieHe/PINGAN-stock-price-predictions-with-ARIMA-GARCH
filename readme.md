@@ -3,3 +3,8 @@
 - open your trojan-qt Client(.exe) file
 
 - click **连接**
+
+- put your mouse in the first icon +add and stay 
+
+- now we have 8 choices
+
