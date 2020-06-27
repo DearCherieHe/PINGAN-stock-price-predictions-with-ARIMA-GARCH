@@ -5,7 +5,6 @@
 - click **连接**
 
 - put your mouse in the first icon +add and stay 
-<<<<<<< HEAD
 
 - now we have 8 choices
 
