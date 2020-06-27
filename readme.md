@@ -9,6 +9,6 @@
 
 - now we have 8 choices
 
-- next, please open the image file that **In this repository** named usla
-=======
->>>>>>> cf4ff4dbdef67d90dadcfaf90bcb02aa5183e801
+- next, please open the image file that **In this repository** named jp2
+
+- 
