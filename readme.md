@@ -1,14 +1,2 @@
-## 1. Learn how to use trojan-qt in your computer with windows system
-
-- open your trojan-qt Client(.exe) file
-
-- click **连接**
-
-- put your mouse in the first icon +add and stay 
-
-- now we have 8 choices
-
-- one of these options is the fifth **scan QRCode on screen** and click that option
-
-- next, please open the image file that **In this repository** named jp2
+本文从股票指数的基础时间序列出发，分析了时间序列的性质以及股票指数的特性。并以此为基础，运用经济统计与计量经济学，选取中国平安2010 年01 月至2020年01 月十年间日收益率进行分析，同时利用Python相关的金融分析工具，建立ARIMA和GARCH 模型，对中国平安的收盘价格进行建模与预测。针对波动信息的提取首先是考察ARIMA(6,1,10)模型的残差平方序列的异方差特征，经LM 检验和Q检验显示残差序列显著方差非齐，且具有自相关性。构造GARCH(1,1)模型，并根据该模型的拟合并预测未来股票价格，结果表明该模型效果拟合良好，两种预测模型都达到比较理想的预测精度和短期预测可行的效果。
 
